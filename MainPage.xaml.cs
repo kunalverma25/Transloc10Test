@@ -40,22 +40,22 @@ namespace Transloc10Test
 
         private async void  abc()
         {
-            //string URL = "https://transloc-api-1-2.p.mashape.com/agencies.json";
-            //string urlParams = "";
-            //HttpClient client = new HttpClient();
+            string URL = "https://transloc-api-1-2.p.mashape.com/agencies.json";
+            string urlParams = "";
+            HttpClient client = new HttpClient();
 
-            //// Add headers for JSON format.
-            //client.BaseAddress = new Uri(URL, UriKind.Absolute);
-            //client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            //client.DefaultRequestHeaders.Add("X-Mashape-Key", "y1ussTz5ltmshVQrmpOiaCRBkpxip1zmwU3jsnX2QyR0SA2QaH");
-            //var respose = await client.GetAsync(urlParams);
-            //string result = await respose.Content.ReadAsStringAsync();
+            // Add headers for JSON format.
+            client.BaseAddress = new Uri(URL, UriKind.Absolute);
+            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            client.DefaultRequestHeaders.Add("X-Mashape-Key", "y1ussTz5ltmshVQrmpOiaCRBkpxip1zmwU3jsnX2QyR0SA2QaH");
+            var respose = await client.GetAsync(urlParams);
+            string result = await respose.Content.ReadAsStringAsync();
 
-            //fu.Text = result;
+            fu.Text = result;
 
             StorageFolder localFolder = ApplicationData.Current.LocalFolder;
-            //StorageFile sampleFile = await localFolder.CreateFileAsync("dataFile.txt", CreationCollisionOption.ReplaceExisting);
-            //await FileIO.WriteTextAsync(sampleFile, result);
+            StorageFile sampleFile = await localFolder.CreateFileAsync("dataFile.txt", CreationCollisionOption.ReplaceExisting);
+            await FileIO.WriteTextAsync(sampleFile, result);
             try
             {
                 StorageFile sampleFile1 = await localFolder.GetFileAsync("dataFile.txt");

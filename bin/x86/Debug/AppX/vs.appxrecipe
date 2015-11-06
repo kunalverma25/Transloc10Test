@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-11-06T07:15:03.358</Modified>
+      <Modified>2015-11-06T08:02:28.738</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -70,19 +70,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\entrypoint\Transloc10Test.exe">
       <PackagePath>entrypoint\Transloc10Test.exe</PackagePath>
-      <Modified>2015-11-06T07:15:02.788</Modified>
+      <Modified>2015-11-06T08:02:25.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
-      <Modified>2015-10-23T03:32:58.504</Modified>
+      <Modified>2015-11-06T07:17:53.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
       <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
-      <Modified>2015-10-23T03:32:59.188</Modified>
+      <Modified>2015-11-06T07:21:03.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
       <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
-      <Modified>2015-10-23T03:32:59.031</Modified>
+      <Modified>2015-11-06T07:20:21.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-11-06T07:14:24.315</Modified>
+      <Modified>2015-11-06T08:02:27.169</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
@@ -518,7 +518,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Transloc10Test.exe">
       <PackagePath>Transloc10Test.exe</PackagePath>
-      <Modified>2015-11-06T07:15:03.356</Modified>
+      <Modified>2015-11-06T08:02:28.735</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Transloc10Test.xr.xml">
       <PackagePath>Transloc10Test.xr.xml</PackagePath>
