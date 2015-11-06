@@ -451,11 +451,3 @@ C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Te
 C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\Core\Transloc10Test.xr.xml
 C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\Core\WinMetadata\Windows.winmd
 C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\Core\resources.pri
-C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\System.Net.Http.Formatting\layout.resfiles
-C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
-C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\System.Net.Http.Formatting\Resources.resfiles
-C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
-C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\System.Net.Http.Formatting\pri.resfiles
-C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
-C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\System.Net.Http.Formatting\priconfig.xml
-C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\obj\x86\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate

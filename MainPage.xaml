@@ -10,7 +10,7 @@
 
     <ScrollViewer Background="White">
         <StackPanel>
-        <ListBox Name="sel" SelectionMode="Multiple">
+        <ListBox Name="sel" SelectionMode="Multiple" Visibility="Collapsed">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>
@@ -21,7 +21,7 @@
             </ListBox.ItemTemplate>
         </ListBox>
         
-            <ListBox Name="lb" SelectionMode="Multiple">
+            <ListBox Name="lb" SelectionMode="Multiple" Visibility="Collapsed">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
                         <StackPanel>
@@ -31,6 +31,10 @@
                     </DataTemplate>
                 </ListBox.ItemTemplate>
             </ListBox>
+            
+            <TextBlock Name="fu" TextWrapping="Wrap"/>
+            <TextBlock Text="____________________________FUCK _______________FUCK______________"/>
+            <TextBlock Name="fu2" TextWrapping="Wrap"/>
         </StackPanel>
     </ScrollViewer>
 </Page>

@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-28T05:19:23.205</Modified>
+      <Modified>2015-11-06T07:15:03.358</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -70,7 +70,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\entrypoint\Transloc10Test.exe">
       <PackagePath>entrypoint\Transloc10Test.exe</PackagePath>
-      <Modified>2015-10-28T05:19:18.264</Modified>
+      <Modified>2015-11-06T07:15:02.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-10-28T05:19:20.754</Modified>
+      <Modified>2015-11-06T07:14:24.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
@@ -518,11 +518,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Transloc10Test.exe">
       <PackagePath>Transloc10Test.exe</PackagePath>
-      <Modified>2015-10-28T05:19:23.205</Modified>
+      <Modified>2015-11-06T07:15:03.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\Transloc10Test.xr.xml">
       <PackagePath>Transloc10Test.xr.xml</PackagePath>
-      <Modified>2015-10-27T18:59:16.866</Modified>
+      <Modified>2015-11-06T06:44:45.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kunal\documents\visual studio 2015\Projects\Transloc10Test\Transloc10Test\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
